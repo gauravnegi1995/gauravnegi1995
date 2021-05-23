@@ -1,4 +1,5 @@
 ### Hi👋, I'm Gaurav  👋
+Hi, I'm Gaurav Negi, a Constant Learner from India, Currently working as Cloud Developer 🙍🏽‍♂️ at HCL . Beside's programming, I enjoy listening music 🎧 ,playing FIFA and Football  .
 
 - 🔭 I’m currently working on Object Detection
 - 🌱 I’m currently learning Big Data and Block chain
